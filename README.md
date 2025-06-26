@@ -16,6 +16,7 @@ A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock 
  - Core/EE2/EE3/I4 waypoints and helpers
  - PV Command
  - Beistairy Helper (Highlighter)
+ - Secret routes/waypoints
  and more!
 
 
