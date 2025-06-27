@@ -26,7 +26,7 @@ Download [ChatTriggers](https://chattriggers.com/) for 1.8.9.
 
 Download the latest release from this repo
 
-Unzip (extract) the .zip file into the ChatTriggers modules folder as you would for any other module.
+Unzip (extract) the .zip file into the ChatTriggers modules folder as you would for any other module. (/config/Chattriggers/modules, you can also do "/ct files" in game)
 
 Reload your modules in game (/ct reload) and then type /ta in chat.
 
