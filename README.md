@@ -1,4 +1,5 @@
 # Trimonu Addons
+
 A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock Dungeons (especially F7/M7).
 
 # Features:
@@ -7,7 +8,6 @@ A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock 
  - Tick Timers <br>
  - Blood Camp Helper <br>
  - Party Commands <br>
- - Auto Kick <br>
  - SBE Blood Fix <br>
  - Auto pearl refiller
  - Location Messages
@@ -17,6 +17,16 @@ A [ChatTriggers](https://chattriggers.com/) module. Focused on Hypixel SkyBlock 
  - PV Command
  - Beistairy Helper (Highlighter)
  - Secret routes/waypoints
+ - Better party finder gui
+ - Death messages
+ - Leap menu
+ - Partyfinder autokick (/autokick)
+ - Melody Alert
+ - Shadow assassin teleport alert
+ - Custom term gui/ term solvers
+ - Positional Messages <br>
+ - Custom item model sizes
+ - Custom player model sizes <br>
  and more!
 
 
